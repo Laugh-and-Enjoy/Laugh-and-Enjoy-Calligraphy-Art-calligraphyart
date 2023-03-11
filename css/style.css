@@ -308,11 +308,19 @@ body {
 
 @media (max-width: 600px) {
   .main h1 {
-    font-size: 38px;
+    font-size: 28px;
+  }
+  .main h3 {
+    font-size: 14px;
+  }
+  .main h5 {
+    font-size: 24px;
+  }
+  .main p {
+    font-size: 12px;
   }
   .sales {
     background-color: pink;
-    /* display: flex; */
   }
 }
 /* -------- */
