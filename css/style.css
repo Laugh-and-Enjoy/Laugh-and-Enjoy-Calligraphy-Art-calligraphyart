@@ -249,6 +249,14 @@ body {
   margin: 40px;
 }
 
+.word1 {
+  justify-content: center;
+}
+
+.word2 {
+  display: none;
+}
+
 .main h4 {
   margin: 30px 0 0 0;
 }
@@ -310,8 +318,11 @@ body {
   .main h1 {
     font-size: 28px;
   }
-  .main h3 {
-    font-size: 14px;
+  .word1 {
+    display: none;
+  }
+  .word2 {
+    font-size: 18px;
   }
   .main h5 {
     font-size: 24px;
